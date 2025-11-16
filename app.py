@@ -1,6 +1,6 @@
 """
 Accident Severity Classification - Streamlit Frontend
-Author: Gaurav
+
 Description: Upload accident images to predict severity levels
 """
 
@@ -151,4 +151,4 @@ else:
 
 # Footer
 st.divider()
-st.caption("🔒 Secure • 🚀 Fast • 🎯 Accurate | Developed by Gaurav")
+st.caption("🔒 Secure • 🚀 Fast • 🎯 Accurate ")
